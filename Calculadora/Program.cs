@@ -11,6 +11,8 @@ Calculo calc = new Calculo();
 
     // calc.Potencia(3,3);
 
-    calc.Seno(30);
-    calc.Coseno(30);
-    calc.Tangente(30);
+    // calc.Seno(30);
+    // calc.Coseno(30);
+    // calc.Tangente(30);
+
+    calc.RaizQuadrada(9);
